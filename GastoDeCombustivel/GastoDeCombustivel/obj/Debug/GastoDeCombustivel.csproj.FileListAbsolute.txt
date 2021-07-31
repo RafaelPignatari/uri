@@ -1,0 +1,5 @@
+C:\Users\rafae\OneDrive\Documentos\Programas\C#\URI\Iniciante\GastoDeCombustivel\GastoDeCombustivel\bin\Debug\GastoDeCombustivel.exe.config
+C:\Users\rafae\OneDrive\Documentos\Programas\C#\URI\Iniciante\GastoDeCombustivel\GastoDeCombustivel\bin\Debug\GastoDeCombustivel.exe
+C:\Users\rafae\OneDrive\Documentos\Programas\C#\URI\Iniciante\GastoDeCombustivel\GastoDeCombustivel\bin\Debug\GastoDeCombustivel.pdb
+C:\Users\rafae\OneDrive\Documentos\Programas\C#\URI\Iniciante\GastoDeCombustivel\GastoDeCombustivel\obj\Debug\GastoDeCombustivel.exe
+C:\Users\rafae\OneDrive\Documentos\Programas\C#\URI\Iniciante\GastoDeCombustivel\GastoDeCombustivel\obj\Debug\GastoDeCombustivel.pdb

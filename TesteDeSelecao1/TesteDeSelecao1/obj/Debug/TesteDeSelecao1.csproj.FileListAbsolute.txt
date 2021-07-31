@@ -1,0 +1,6 @@
+C:\Users\rafae\OneDrive\Documentos\Programas\C#\URI\Iniciante\TesteDeSelecao1\TesteDeSelecao1\bin\Debug\TesteDeSelecao1.exe.config
+C:\Users\rafae\OneDrive\Documentos\Programas\C#\URI\Iniciante\TesteDeSelecao1\TesteDeSelecao1\bin\Debug\TesteDeSelecao1.exe
+C:\Users\rafae\OneDrive\Documentos\Programas\C#\URI\Iniciante\TesteDeSelecao1\TesteDeSelecao1\bin\Debug\TesteDeSelecao1.pdb
+C:\Users\rafae\OneDrive\Documentos\Programas\C#\URI\Iniciante\TesteDeSelecao1\TesteDeSelecao1\obj\Debug\TesteDeSelecao1.csprojAssemblyReference.cache
+C:\Users\rafae\OneDrive\Documentos\Programas\C#\URI\Iniciante\TesteDeSelecao1\TesteDeSelecao1\obj\Debug\TesteDeSelecao1.exe
+C:\Users\rafae\OneDrive\Documentos\Programas\C#\URI\Iniciante\TesteDeSelecao1\TesteDeSelecao1\obj\Debug\TesteDeSelecao1.pdb

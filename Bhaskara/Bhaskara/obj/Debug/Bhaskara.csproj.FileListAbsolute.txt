@@ -1,0 +1,5 @@
+C:\Users\rafae\OneDrive\Documentos\Programas\C#\URI\Iniciante\Bhaskara\Bhaskara\bin\Debug\Bhaskara.exe.config
+C:\Users\rafae\OneDrive\Documentos\Programas\C#\URI\Iniciante\Bhaskara\Bhaskara\bin\Debug\Bhaskara.exe
+C:\Users\rafae\OneDrive\Documentos\Programas\C#\URI\Iniciante\Bhaskara\Bhaskara\bin\Debug\Bhaskara.pdb
+C:\Users\rafae\OneDrive\Documentos\Programas\C#\URI\Iniciante\Bhaskara\Bhaskara\obj\Debug\Bhaskara.exe
+C:\Users\rafae\OneDrive\Documentos\Programas\C#\URI\Iniciante\Bhaskara\Bhaskara\obj\Debug\Bhaskara.pdb

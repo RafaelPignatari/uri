@@ -1,0 +1,5 @@
+C:\Users\rafae\OneDrive\Documentos\Programas\C#\URI\Iniciante\Lanche\Lanche\bin\Debug\Lanche.exe.config
+C:\Users\rafae\OneDrive\Documentos\Programas\C#\URI\Iniciante\Lanche\Lanche\bin\Debug\Lanche.exe
+C:\Users\rafae\OneDrive\Documentos\Programas\C#\URI\Iniciante\Lanche\Lanche\bin\Debug\Lanche.pdb
+C:\Users\rafae\OneDrive\Documentos\Programas\C#\URI\Iniciante\Lanche\Lanche\obj\Debug\Lanche.exe
+C:\Users\rafae\OneDrive\Documentos\Programas\C#\URI\Iniciante\Lanche\Lanche\obj\Debug\Lanche.pdb

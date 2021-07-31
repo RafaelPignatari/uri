@@ -1,0 +1,5 @@
+C:\Users\rafae\OneDrive\Documentos\Programas\C#\URI\Iniciante\Intervalo\Intervalo\bin\Debug\Intervalo.exe.config
+C:\Users\rafae\OneDrive\Documentos\Programas\C#\URI\Iniciante\Intervalo\Intervalo\bin\Debug\Intervalo.exe
+C:\Users\rafae\OneDrive\Documentos\Programas\C#\URI\Iniciante\Intervalo\Intervalo\bin\Debug\Intervalo.pdb
+C:\Users\rafae\OneDrive\Documentos\Programas\C#\URI\Iniciante\Intervalo\Intervalo\obj\Debug\Intervalo.exe
+C:\Users\rafae\OneDrive\Documentos\Programas\C#\URI\Iniciante\Intervalo\Intervalo\obj\Debug\Intervalo.pdb

@@ -1,0 +1,5 @@
+C:\Users\rafae\OneDrive\Documentos\Programas\C#\URI\Iniciante\Maior\Maior\bin\Debug\Maior.exe.config
+C:\Users\rafae\OneDrive\Documentos\Programas\C#\URI\Iniciante\Maior\Maior\bin\Debug\Maior.exe
+C:\Users\rafae\OneDrive\Documentos\Programas\C#\URI\Iniciante\Maior\Maior\bin\Debug\Maior.pdb
+C:\Users\rafae\OneDrive\Documentos\Programas\C#\URI\Iniciante\Maior\Maior\obj\Debug\Maior.exe
+C:\Users\rafae\OneDrive\Documentos\Programas\C#\URI\Iniciante\Maior\Maior\obj\Debug\Maior.pdb

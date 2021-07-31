@@ -1,0 +1,11 @@
+C:\Users\rafae\OneDrive\Documentos\programas\C#\URI_SomaSimples\URI_SomaSimples\bin\Debug\netcoreapp3.1\URI_SomaSimples.exe
+C:\Users\rafae\OneDrive\Documentos\programas\C#\URI_SomaSimples\URI_SomaSimples\bin\Debug\netcoreapp3.1\URI_SomaSimples.deps.json
+C:\Users\rafae\OneDrive\Documentos\programas\C#\URI_SomaSimples\URI_SomaSimples\bin\Debug\netcoreapp3.1\URI_SomaSimples.runtimeconfig.json
+C:\Users\rafae\OneDrive\Documentos\programas\C#\URI_SomaSimples\URI_SomaSimples\bin\Debug\netcoreapp3.1\URI_SomaSimples.runtimeconfig.dev.json
+C:\Users\rafae\OneDrive\Documentos\programas\C#\URI_SomaSimples\URI_SomaSimples\bin\Debug\netcoreapp3.1\URI_SomaSimples.dll
+C:\Users\rafae\OneDrive\Documentos\programas\C#\URI_SomaSimples\URI_SomaSimples\bin\Debug\netcoreapp3.1\URI_SomaSimples.pdb
+C:\Users\rafae\OneDrive\Documentos\programas\C#\URI_SomaSimples\URI_SomaSimples\obj\Debug\netcoreapp3.1\URI_SomaSimples.csprojAssemblyReference.cache
+C:\Users\rafae\OneDrive\Documentos\programas\C#\URI_SomaSimples\URI_SomaSimples\obj\Debug\netcoreapp3.1\URI_SomaSimples.AssemblyInfoInputs.cache
+C:\Users\rafae\OneDrive\Documentos\programas\C#\URI_SomaSimples\URI_SomaSimples\obj\Debug\netcoreapp3.1\URI_SomaSimples.AssemblyInfo.cs
+C:\Users\rafae\OneDrive\Documentos\programas\C#\URI_SomaSimples\URI_SomaSimples\obj\Debug\netcoreapp3.1\URI_SomaSimples.dll
+C:\Users\rafae\OneDrive\Documentos\programas\C#\URI_SomaSimples\URI_SomaSimples\obj\Debug\netcoreapp3.1\URI_SomaSimples.pdb

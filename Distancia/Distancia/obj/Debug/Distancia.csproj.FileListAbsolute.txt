@@ -1,0 +1,5 @@
+C:\Users\rafae\OneDrive\Documentos\Programas\C#\URI\Iniciante\Distancia\Distancia\bin\Debug\Distancia.exe.config
+C:\Users\rafae\OneDrive\Documentos\Programas\C#\URI\Iniciante\Distancia\Distancia\bin\Debug\Distancia.exe
+C:\Users\rafae\OneDrive\Documentos\Programas\C#\URI\Iniciante\Distancia\Distancia\bin\Debug\Distancia.pdb
+C:\Users\rafae\OneDrive\Documentos\Programas\C#\URI\Iniciante\Distancia\Distancia\obj\Debug\Distancia.exe
+C:\Users\rafae\OneDrive\Documentos\Programas\C#\URI\Iniciante\Distancia\Distancia\obj\Debug\Distancia.pdb

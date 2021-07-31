@@ -1,0 +1,10 @@
+C:\Users\rafae\OneDrive\Documentos\programas\C#\URI_ProdutoSimples\URI_ProdutoSimples\bin\Debug\netcoreapp3.1\URI_ProdutoSimples.exe
+C:\Users\rafae\OneDrive\Documentos\programas\C#\URI_ProdutoSimples\URI_ProdutoSimples\bin\Debug\netcoreapp3.1\URI_ProdutoSimples.deps.json
+C:\Users\rafae\OneDrive\Documentos\programas\C#\URI_ProdutoSimples\URI_ProdutoSimples\bin\Debug\netcoreapp3.1\URI_ProdutoSimples.runtimeconfig.json
+C:\Users\rafae\OneDrive\Documentos\programas\C#\URI_ProdutoSimples\URI_ProdutoSimples\bin\Debug\netcoreapp3.1\URI_ProdutoSimples.runtimeconfig.dev.json
+C:\Users\rafae\OneDrive\Documentos\programas\C#\URI_ProdutoSimples\URI_ProdutoSimples\bin\Debug\netcoreapp3.1\URI_ProdutoSimples.dll
+C:\Users\rafae\OneDrive\Documentos\programas\C#\URI_ProdutoSimples\URI_ProdutoSimples\bin\Debug\netcoreapp3.1\URI_ProdutoSimples.pdb
+C:\Users\rafae\OneDrive\Documentos\programas\C#\URI_ProdutoSimples\URI_ProdutoSimples\obj\Debug\netcoreapp3.1\URI_ProdutoSimples.AssemblyInfoInputs.cache
+C:\Users\rafae\OneDrive\Documentos\programas\C#\URI_ProdutoSimples\URI_ProdutoSimples\obj\Debug\netcoreapp3.1\URI_ProdutoSimples.AssemblyInfo.cs
+C:\Users\rafae\OneDrive\Documentos\programas\C#\URI_ProdutoSimples\URI_ProdutoSimples\obj\Debug\netcoreapp3.1\URI_ProdutoSimples.dll
+C:\Users\rafae\OneDrive\Documentos\programas\C#\URI_ProdutoSimples\URI_ProdutoSimples\obj\Debug\netcoreapp3.1\URI_ProdutoSimples.pdb

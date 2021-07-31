@@ -1,0 +1,5 @@
+C:\Users\rafae\OneDrive\Documentos\Programas\C#\URI\Iniciante\IdadeEmDias\IdadeEmDias\bin\Debug\IdadeEmDias.exe.config
+C:\Users\rafae\OneDrive\Documentos\Programas\C#\URI\Iniciante\IdadeEmDias\IdadeEmDias\bin\Debug\IdadeEmDias.exe
+C:\Users\rafae\OneDrive\Documentos\Programas\C#\URI\Iniciante\IdadeEmDias\IdadeEmDias\bin\Debug\IdadeEmDias.pdb
+C:\Users\rafae\OneDrive\Documentos\Programas\C#\URI\Iniciante\IdadeEmDias\IdadeEmDias\obj\Debug\IdadeEmDias.exe
+C:\Users\rafae\OneDrive\Documentos\Programas\C#\URI\Iniciante\IdadeEmDias\IdadeEmDias\obj\Debug\IdadeEmDias.pdb

@@ -1,0 +1,5 @@
+C:\Users\rafae\OneDrive\Documentos\Programas\C#\URI\Iniciante\Diferença\Diferença\bin\Debug\Diferença.exe.config
+C:\Users\rafae\OneDrive\Documentos\Programas\C#\URI\Iniciante\Diferença\Diferença\bin\Debug\Diferença.exe
+C:\Users\rafae\OneDrive\Documentos\Programas\C#\URI\Iniciante\Diferença\Diferença\bin\Debug\Diferença.pdb
+C:\Users\rafae\OneDrive\Documentos\Programas\C#\URI\Iniciante\Diferença\Diferença\obj\Debug\Diferença.exe
+C:\Users\rafae\OneDrive\Documentos\Programas\C#\URI\Iniciante\Diferença\Diferença\obj\Debug\Diferença.pdb

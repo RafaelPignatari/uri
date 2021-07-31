@@ -1,0 +1,10 @@
+C:\Users\rafae\OneDrive\Documentos\programas\C#\URI_ExtremamenteBasico\URI_ExtremamenteBasico\bin\Debug\netcoreapp3.1\URI_ExtremamenteBasico.exe
+C:\Users\rafae\OneDrive\Documentos\programas\C#\URI_ExtremamenteBasico\URI_ExtremamenteBasico\bin\Debug\netcoreapp3.1\URI_ExtremamenteBasico.deps.json
+C:\Users\rafae\OneDrive\Documentos\programas\C#\URI_ExtremamenteBasico\URI_ExtremamenteBasico\bin\Debug\netcoreapp3.1\URI_ExtremamenteBasico.runtimeconfig.json
+C:\Users\rafae\OneDrive\Documentos\programas\C#\URI_ExtremamenteBasico\URI_ExtremamenteBasico\bin\Debug\netcoreapp3.1\URI_ExtremamenteBasico.runtimeconfig.dev.json
+C:\Users\rafae\OneDrive\Documentos\programas\C#\URI_ExtremamenteBasico\URI_ExtremamenteBasico\bin\Debug\netcoreapp3.1\URI_ExtremamenteBasico.dll
+C:\Users\rafae\OneDrive\Documentos\programas\C#\URI_ExtremamenteBasico\URI_ExtremamenteBasico\bin\Debug\netcoreapp3.1\URI_ExtremamenteBasico.pdb
+C:\Users\rafae\OneDrive\Documentos\programas\C#\URI_ExtremamenteBasico\URI_ExtremamenteBasico\obj\Debug\netcoreapp3.1\URI_ExtremamenteBasico.AssemblyInfoInputs.cache
+C:\Users\rafae\OneDrive\Documentos\programas\C#\URI_ExtremamenteBasico\URI_ExtremamenteBasico\obj\Debug\netcoreapp3.1\URI_ExtremamenteBasico.AssemblyInfo.cs
+C:\Users\rafae\OneDrive\Documentos\programas\C#\URI_ExtremamenteBasico\URI_ExtremamenteBasico\obj\Debug\netcoreapp3.1\URI_ExtremamenteBasico.dll
+C:\Users\rafae\OneDrive\Documentos\programas\C#\URI_ExtremamenteBasico\URI_ExtremamenteBasico\obj\Debug\netcoreapp3.1\URI_ExtremamenteBasico.pdb

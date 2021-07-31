@@ -1,0 +1,5 @@
+C:\Users\rafae\OneDrive\Documentos\Programas\C#\URI\Iniciante\CalculoSimples\CalculoSimples\bin\Debug\CalculoSimples.exe.config
+C:\Users\rafae\OneDrive\Documentos\Programas\C#\URI\Iniciante\CalculoSimples\CalculoSimples\bin\Debug\CalculoSimples.exe
+C:\Users\rafae\OneDrive\Documentos\Programas\C#\URI\Iniciante\CalculoSimples\CalculoSimples\bin\Debug\CalculoSimples.pdb
+C:\Users\rafae\OneDrive\Documentos\Programas\C#\URI\Iniciante\CalculoSimples\CalculoSimples\obj\Debug\CalculoSimples.exe
+C:\Users\rafae\OneDrive\Documentos\Programas\C#\URI\Iniciante\CalculoSimples\CalculoSimples\obj\Debug\CalculoSimples.pdb

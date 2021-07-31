@@ -1,0 +1,5 @@
+C:\Users\rafae\OneDrive\Documentos\Programas\C#\URI\Iniciante\Area\Area\bin\Debug\Area.exe.config
+C:\Users\rafae\OneDrive\Documentos\Programas\C#\URI\Iniciante\Area\Area\bin\Debug\Area.exe
+C:\Users\rafae\OneDrive\Documentos\Programas\C#\URI\Iniciante\Area\Area\bin\Debug\Area.pdb
+C:\Users\rafae\OneDrive\Documentos\Programas\C#\URI\Iniciante\Area\Area\obj\Debug\Area.exe
+C:\Users\rafae\OneDrive\Documentos\Programas\C#\URI\Iniciante\Area\Area\obj\Debug\Area.pdb

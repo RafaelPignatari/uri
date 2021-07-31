@@ -1,0 +1,11 @@
+C:\Users\rafae\OneDrive\Documentos\programas\C#\URI_ConversaoHoras\URI_ConversaoHoras\bin\Debug\netcoreapp3.1\URI_ConversaoHoras.exe
+C:\Users\rafae\OneDrive\Documentos\programas\C#\URI_ConversaoHoras\URI_ConversaoHoras\bin\Debug\netcoreapp3.1\URI_ConversaoHoras.deps.json
+C:\Users\rafae\OneDrive\Documentos\programas\C#\URI_ConversaoHoras\URI_ConversaoHoras\bin\Debug\netcoreapp3.1\URI_ConversaoHoras.runtimeconfig.json
+C:\Users\rafae\OneDrive\Documentos\programas\C#\URI_ConversaoHoras\URI_ConversaoHoras\bin\Debug\netcoreapp3.1\URI_ConversaoHoras.runtimeconfig.dev.json
+C:\Users\rafae\OneDrive\Documentos\programas\C#\URI_ConversaoHoras\URI_ConversaoHoras\bin\Debug\netcoreapp3.1\URI_ConversaoHoras.dll
+C:\Users\rafae\OneDrive\Documentos\programas\C#\URI_ConversaoHoras\URI_ConversaoHoras\bin\Debug\netcoreapp3.1\URI_ConversaoHoras.pdb
+C:\Users\rafae\OneDrive\Documentos\programas\C#\URI_ConversaoHoras\URI_ConversaoHoras\obj\Debug\netcoreapp3.1\URI_ConversaoHoras.csprojAssemblyReference.cache
+C:\Users\rafae\OneDrive\Documentos\programas\C#\URI_ConversaoHoras\URI_ConversaoHoras\obj\Debug\netcoreapp3.1\URI_ConversaoHoras.AssemblyInfoInputs.cache
+C:\Users\rafae\OneDrive\Documentos\programas\C#\URI_ConversaoHoras\URI_ConversaoHoras\obj\Debug\netcoreapp3.1\URI_ConversaoHoras.AssemblyInfo.cs
+C:\Users\rafae\OneDrive\Documentos\programas\C#\URI_ConversaoHoras\URI_ConversaoHoras\obj\Debug\netcoreapp3.1\URI_ConversaoHoras.dll
+C:\Users\rafae\OneDrive\Documentos\programas\C#\URI_ConversaoHoras\URI_ConversaoHoras\obj\Debug\netcoreapp3.1\URI_ConversaoHoras.pdb

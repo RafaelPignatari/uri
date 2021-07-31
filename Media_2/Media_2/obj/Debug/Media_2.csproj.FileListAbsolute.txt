@@ -1,0 +1,6 @@
+C:\Users\rafae\OneDrive\Documentos\Programas\C#\URI\Iniciante\Media_2\Media_2\bin\Debug\Media_2.exe.config
+C:\Users\rafae\OneDrive\Documentos\Programas\C#\URI\Iniciante\Media_2\Media_2\bin\Debug\Media_2.exe
+C:\Users\rafae\OneDrive\Documentos\Programas\C#\URI\Iniciante\Media_2\Media_2\bin\Debug\Media_2.pdb
+C:\Users\rafae\OneDrive\Documentos\Programas\C#\URI\Iniciante\Media_2\Media_2\obj\Debug\Media_2.csprojAssemblyReference.cache
+C:\Users\rafae\OneDrive\Documentos\Programas\C#\URI\Iniciante\Media_2\Media_2\obj\Debug\Media_2.exe
+C:\Users\rafae\OneDrive\Documentos\Programas\C#\URI\Iniciante\Media_2\Media_2\obj\Debug\Media_2.pdb

@@ -1,0 +1,11 @@
+C:\Users\rafae\OneDrive\Documentos\programas\C#\Uri_AreaCirculo\Uri_AreaCirculo\bin\Debug\netcoreapp3.1\Uri_AreaCirculo.exe
+C:\Users\rafae\OneDrive\Documentos\programas\C#\Uri_AreaCirculo\Uri_AreaCirculo\bin\Debug\netcoreapp3.1\Uri_AreaCirculo.deps.json
+C:\Users\rafae\OneDrive\Documentos\programas\C#\Uri_AreaCirculo\Uri_AreaCirculo\bin\Debug\netcoreapp3.1\Uri_AreaCirculo.runtimeconfig.json
+C:\Users\rafae\OneDrive\Documentos\programas\C#\Uri_AreaCirculo\Uri_AreaCirculo\bin\Debug\netcoreapp3.1\Uri_AreaCirculo.runtimeconfig.dev.json
+C:\Users\rafae\OneDrive\Documentos\programas\C#\Uri_AreaCirculo\Uri_AreaCirculo\bin\Debug\netcoreapp3.1\Uri_AreaCirculo.dll
+C:\Users\rafae\OneDrive\Documentos\programas\C#\Uri_AreaCirculo\Uri_AreaCirculo\bin\Debug\netcoreapp3.1\Uri_AreaCirculo.pdb
+C:\Users\rafae\OneDrive\Documentos\programas\C#\Uri_AreaCirculo\Uri_AreaCirculo\obj\Debug\netcoreapp3.1\Uri_AreaCirculo.AssemblyInfoInputs.cache
+C:\Users\rafae\OneDrive\Documentos\programas\C#\Uri_AreaCirculo\Uri_AreaCirculo\obj\Debug\netcoreapp3.1\Uri_AreaCirculo.AssemblyInfo.cs
+C:\Users\rafae\OneDrive\Documentos\programas\C#\Uri_AreaCirculo\Uri_AreaCirculo\obj\Debug\netcoreapp3.1\Uri_AreaCirculo.dll
+C:\Users\rafae\OneDrive\Documentos\programas\C#\Uri_AreaCirculo\Uri_AreaCirculo\obj\Debug\netcoreapp3.1\Uri_AreaCirculo.pdb
+C:\Users\rafae\OneDrive\Documentos\programas\C#\Uri_AreaCirculo\Uri_AreaCirculo\obj\Debug\netcoreapp3.1\Uri_AreaCirculo.csprojAssemblyReference.cache

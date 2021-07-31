@@ -1,0 +1,5 @@
+C:\Users\rafae\OneDrive\Documentos\Programas\C#\URI\Iniciante\Cedulas\Cedulas\bin\Debug\Cedulas.exe.config
+C:\Users\rafae\OneDrive\Documentos\Programas\C#\URI\Iniciante\Cedulas\Cedulas\bin\Debug\Cedulas.exe
+C:\Users\rafae\OneDrive\Documentos\Programas\C#\URI\Iniciante\Cedulas\Cedulas\bin\Debug\Cedulas.pdb
+C:\Users\rafae\OneDrive\Documentos\Programas\C#\URI\Iniciante\Cedulas\Cedulas\obj\Debug\Cedulas.exe
+C:\Users\rafae\OneDrive\Documentos\Programas\C#\URI\Iniciante\Cedulas\Cedulas\obj\Debug\Cedulas.pdb
